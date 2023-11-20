@@ -1,6 +1,5 @@
 h1 {
 	font-size: 3.125rem;
-	color: white;
 	font-weight: 500;
 	line-height: 100%;
 	letter-spacing: -0.125rem;
@@ -18,5 +17,11 @@ main {
 	align-items: center;
 	box-sizing: inherit;
 	position: absolute;
-	background-color: black;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+.toolbar {
+  position: absolute;
 }

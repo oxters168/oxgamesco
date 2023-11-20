@@ -1,5 +1,18 @@
 <main class="main">
   <h1>🚧 Under Construction 🚧</h1>
 </main>
+<mat-toolbar color="primary" class="toolbar">
+  <span class="spacer"></span>
+  <div *ngIf="isDarkMode; else elseBlock">
+    <button (click)="toggleDarkMode()" matTooltip="Switch to light mode" mat-icon-button>
+      <mat-icon>light_mode</mat-icon>
+    </button>
+  </div>
+  <ng-template #elseBlock>
+    <button (click)="toggleDarkMode()" matTooltip="Switch to dark mode" mat-icon-button>
+      <mat-icon>dark_mode</mat-icon>
+    </button>
+  </ng-template>
+</mat-toolbar>
 
 <router-outlet></router-outlet>
