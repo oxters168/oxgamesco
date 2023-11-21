@@ -2,6 +2,11 @@
 @use "sass:map";
 @include mat.core();
 
+@font-face {
+  font-family: 'Crimson';
+  src: url('assets/fonts/crimson/crimson.roman.otf') format('opentype');
+}
+
 // Define a light theme
 $light-theme: mat.define-light-theme((
  color: (
@@ -9,7 +14,9 @@ $light-theme: mat.define-light-theme((
    accent: mat.define-palette(mat.$pink-palette),
  ),
  // Only include `typography` and `density` in the default dark theme.
- typography: mat.define-typography-config(),
+ typography: mat.define-typography-config(
+    $font-family: 'Crimson',
+  ),
  density: 0,
 ));
 
@@ -20,7 +27,9 @@ $dark-theme: mat.define-dark-theme((
    accent: mat.define-palette(mat.$blue-grey-palette),
  ),
   // Only include `typography` and `density` in the default dark theme.
-  typography: mat.define-typography-config(),
+  typography: mat.define-typography-config(
+    $font-family: 'Crimson',
+  ),
   density: 0,
 ));
 

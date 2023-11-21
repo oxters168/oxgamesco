@@ -1,9 +1,24 @@
-main {
-	width: 100%;
-	min-height: 100%;
-	display: flex;
+.fullscreen {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.main {
+  flex-grow: 1;
+  display: flex;
 	justify-content: center;
-	align-items: center;
-	box-sizing: inherit;
-	position: absolute;
+  overflow: scroll;
+}
+.text-holder {
+  max-width: 512pt;
+  margin-left: 24pt;
+  margin-right: 24pt;
+}
+small {
+  font-size: x-small;
 }

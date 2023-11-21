@@ -23,8 +23,19 @@ import { MatTooltipModule } from '@angular/material/tooltip'
 export class ToolbarComponent {
   isDarkMode = false
 
+  constructor() {
+    const val = localStorage.getItem('isDarkMode')
+    if (val) {
+      this.setDarkMode(val === 'true')
+    }
+  }
+  
   toggleDarkMode() {
-    this.isDarkMode = !this.isDarkMode
+    this.setDarkMode(!this.isDarkMode)
+  }
+  setDarkMode(onOff: boolean) {
+    this.isDarkMode = onOff
+    localStorage.setItem('isDarkMode', this.isDarkMode.toString())
     if (this.isDarkMode) {
       document.body.classList.add('dark-theme')
     } else {
