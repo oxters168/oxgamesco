@@ -1,22 +1,45 @@
 {
-  description = "Website for Ox Games";
+  description = "An example of Napalm with flakes";
 
-  inputs = {
+	inputs = {
     flake-utils.url = "github:numtide/flake-utils";
-    nixpkgs.url = "github:NixOS/nixpkgs/nixos-23.05";
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-24.05";
+		napalm.url = "github:nix-community/napalm";
   };
 
-  outputs = inputs:
-    inputs.flake-utils.lib.eachDefaultSystem (system:
-      let pkgs = (import (inputs.nixpkgs) { config = {allowUnfree = true;}; system =
-              "x86_64-linux";
-                  });
-      in {
-        devShell = pkgs.mkShell {
-          buildInputs=[
-            pkgs.nodejs_20
-          ];
-        };
-      }
-    );
+  outputs = { self, nixpkgs, flake-utils, napalm }:
+		flake-utils.lib.eachDefaultSystem (system:
+			let
+				pkgs = nixpkgs.legacyPackages."${system}";
+
+				buildInputs = [
+					pkgs.nodejs_18
+				];
+				oxgamesco-node-modules = napalm.legacyPackages."${system}".buildPackage ./. {
+					nodejs = pkgs.nodejs_18;
+				};
+			in
+			{
+				packages.default = with oxgamesco-node-modules; pkgs.stdenv.mkDerivation {
+					name = "oxgamesco-website";
+          src = ./.;
+
+          buildInputs = buildInputs;
+
+          buildPhase = ''
+						export NG_CLI_ANALYTICS="false"
+						cp -r ${oxgamesco-node-modules}/_napalm-install/* ./
+            npm run build
+          '';
+
+          installPhase = ''
+            mkdir -p $out
+            cp -r dist/browser/* $out/
+          '';
+				};
+				devShells.default = pkgs.mkShell {
+					buildInputs = buildInputs;
+				};
+			}
+		);
 }
