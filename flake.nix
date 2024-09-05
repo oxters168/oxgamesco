@@ -24,7 +24,7 @@
 					name = "oxgamesco-website";
           src = ./.;
 
-          buildInputs = buildInputs;
+          inherit buildInputs;
 
           buildPhase = ''
 						export NG_CLI_ANALYTICS="false"
@@ -38,7 +38,7 @@
           '';
 				};
 				devShells.default = pkgs.mkShell {
-					buildInputs = buildInputs;
+					inherit buildInputs;
 				};
 			}
 		);
