@@ -5,7 +5,8 @@ import { MatDividerModule } from '@angular/material/divider'
 import { MatButtonModule } from '@angular/material/button'
 import { MatToolbarModule } from '@angular/material/toolbar'
 import { MatTooltipModule } from '@angular/material/tooltip'
-import { MatDrawer, MatSidenavModule } from '@angular/material/sidenav';
+import { MatDrawer, MatSidenavModule } from '@angular/material/sidenav'
+import { Router } from '@angular/router'
 
 @Component({
   selector: 'app-toolbar',
@@ -28,7 +29,7 @@ export class ToolbarComponent {
 	@ViewChild('drawer')
 	drawerRef!: MatDrawer
 
-  constructor() {
+  constructor(private _router: Router) {
     const val = localStorage.getItem('isDarkMode')
     if (val) {
       this.setDarkMode(val === 'true')
@@ -38,6 +39,14 @@ export class ToolbarComponent {
 	goto(page: Page) {
 		console.log(page)
 		this.drawerRef.close()
+		switch (page) {
+			case 'little-trinkets':
+				this._router.navigateByUrl('/little-trinkets')
+				break
+			case 'ox-shell':
+				this._router.navigateByUrl('/ox-shell')
+				break
+		}
 	}
   toggleDarkMode() {
     this.setDarkMode(!this.isDarkMode)
@@ -53,4 +62,4 @@ export class ToolbarComponent {
   }
 }
 
-export type Page = 'ox-shell' | 'ox-board' | 'little-trinkets' | 'contact'
+export type Page = 'ox-shell' | 'ox-board' | 'little-trinkets' | 'rocho' | 'contact'

@@ -1,17 +1,24 @@
 <mat-drawer-container class="container" autosize>
-  <mat-drawer #drawer class="sidenav" mode="over">
-    <button (click)="goto('ox-shell')" mat-flat-button class="sidenav-btn">
-      Ox Shell
-    </button>
-		<button (click)="goto('ox-board')" mat-flat-button class="sidenav-btn">
-			Ox Board
-    </button>
-		<button (click)="goto('little-trinkets')" mat-flat-button class="sidenav-btn">
-			Little Trinkets
-		</button>
-		<button (click)="goto('contact')" mat-flat-button class="sidenav-btn">
-			Contact
-		</button>
+  <mat-drawer #drawer mode="over">
+		<div class="sidenav-list">
+			<button (click)="goto('ox-shell')" mat-flat-button class="sidenav-btn">
+				Ox Shell
+			</button>
+			<button (click)="goto('ox-board')" mat-flat-button class="sidenav-btn">
+				Ox Board
+			</button>
+			<button (click)="goto('little-trinkets')" mat-flat-button class="sidenav-btn">
+				Little Trinkets
+			</button>
+			<button (click)="goto('rocho')" mat-flat-button class="sidenav-btn">
+				Rocho
+			</button>
+			<button (click)="goto('contact')" mat-flat-button class="sidenav-btn">
+				Contact
+			</button>
+			<span class="spacer"></span>
+			<img src="assets/favicon.png" width="32"/>
+		</div>
   </mat-drawer>
 
 	<div class="sidenav-content">

@@ -1,0 +1,17 @@
+main {
+	width: 100%;
+	min-height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	box-sizing: inherit;
+	position: absolute;
+}
+h1 {
+	font-family: 'Crimson';
+	font-size: 3.125rem;
+	font-weight: 500;
+	line-height: 100%;
+	// letter-spacing: -0.125rem;
+	margin: 0;
+}

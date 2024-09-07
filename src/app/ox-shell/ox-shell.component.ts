@@ -3,15 +3,15 @@ import { CommonModule } from '@angular/common'
 import { ToolbarComponent } from '../toolbar/toolbar.component'
 
 @Component({
-  selector: 'app-home',
+  selector: 'ox-shell',
   standalone: true,
   imports: [
     CommonModule,
     ToolbarComponent
   ],
-  templateUrl: './home.component.html',
-  styleUrl: './home.component.scss'
+  templateUrl: './ox-shell.component.html',
+  styleUrl: './ox-shell.component.scss'
 })
-export class HomeComponent {
+export class OxShellComponent {
 
 }

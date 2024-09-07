@@ -1,7 +1,7 @@
 import { Component } from '@angular/core'
 import { CommonModule } from '@angular/common'
 import { RouterOutlet } from '@angular/router'
-import { HomeComponent } from './home/home.component'
+import { OxShellComponent } from './ox-shell/ox-shell.component'
 // import { PrivacyPolicyOxshellComponent } from './privacy-policy-oxshell/privacy-policy-oxshell.component'
 
 @Component({
@@ -10,7 +10,7 @@ import { HomeComponent } from './home/home.component'
   imports: [
     CommonModule,
     RouterOutlet,
-    HomeComponent,
+    OxShellComponent,
     // PrivacyPolicyOxshellComponent
   ],
   templateUrl: './app.component.html',

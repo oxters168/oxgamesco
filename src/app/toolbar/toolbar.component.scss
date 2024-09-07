@@ -15,14 +15,24 @@
   height: 100%;
 }
 
-.sidenav {
-	width: 20%;
-	align-content: center;
+// .sidenav {
+// 	// width: 20%;
+// 	// align-content: center;
+// }
+
+.sidenav-list {
+	display: flex;
+	height: 100%;
+	flex-direction: column;
+	-ms-flex-direction: column;
+	align-items: center;
 }
 
-.sidenav .sidenav-btn {
+.sidenav-btn {
 	width: 100%;
-	font-size: 32px;
+	// font-size: 32px;
+	border-radius: 0;
+	font-size: 2rem;
 	padding-top: 32px;
 	padding-bottom: 32px;
 }
