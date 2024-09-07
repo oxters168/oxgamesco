@@ -1,13 +1,36 @@
-<mat-toolbar color="primary" class="toolbar">
-  <span class="spacer"></span>
-  <div *ngIf="isDarkMode; else elseBlock">
-    <button (click)="toggleDarkMode()" matTooltip="Switch to light mode" mat-icon-button>
-      <mat-icon>light_mode</mat-icon>
+<mat-drawer-container class="container" autosize>
+  <mat-drawer #drawer class="sidenav" mode="over">
+    <button (click)="goto('ox-shell')" mat-flat-button class="sidenav-btn">
+      Ox Shell
     </button>
-  </div>
-  <ng-template #elseBlock>
-    <button (click)="toggleDarkMode()" matTooltip="Switch to dark mode" mat-icon-button>
-      <mat-icon>dark_mode</mat-icon>
+		<button (click)="goto('ox-board')" mat-flat-button class="sidenav-btn">
+			Ox Board
     </button>
-  </ng-template>
-</mat-toolbar>
+		<button (click)="goto('little-trinkets')" mat-flat-button class="sidenav-btn">
+			Little Trinkets
+		</button>
+		<button (click)="goto('contact')" mat-flat-button class="sidenav-btn">
+			Contact
+		</button>
+  </mat-drawer>
+
+	<div class="sidenav-content">
+		<ng-content/>
+		<mat-toolbar color="primary" class="toolbar">
+			<button mat-icon-button (click)="drawer.toggle()" matTooltip="Open menu">
+				<mat-icon>menu</mat-icon>
+			</button>
+			<span class="spacer"></span>
+			<div *ngIf="isDarkMode; else elseBlock">
+				<button (click)="toggleDarkMode()" matTooltip="Switch to light mode" mat-icon-button>
+					<mat-icon>light_mode</mat-icon>
+				</button>
+			</div>
+			<ng-template #elseBlock>
+				<button (click)="toggleDarkMode()" matTooltip="Switch to dark mode" mat-icon-button>
+					<mat-icon>dark_mode</mat-icon>
+				</button>
+			</ng-template>
+		</mat-toolbar>
+	</div>
+</mat-drawer-container>
