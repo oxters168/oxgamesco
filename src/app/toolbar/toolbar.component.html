@@ -4,20 +4,20 @@
 			<button (click)="goto('ox-shell')" mat-stroked-button class="sidenav-btn">
 				Ox Shell
 			</button>
-			<button (click)="goto('ox-board')" mat-stroked-button class="sidenav-btn">
-				Ox Board
+			<button (click)="goto('rocho')" mat-stroked-button class="sidenav-btn">
+				Rocho
 			</button>
 			<button (click)="goto('little-trinkets')" mat-stroked-button class="sidenav-btn">
 				Little Trinkets
 			</button>
-			<button (click)="goto('rocho')" mat-stroked-button class="sidenav-btn">
-				Rocho
+			<button (click)="goto('ox-board')" mat-stroked-button class="sidenav-btn">
+				Ox Board
 			</button>
 			<button (click)="goto('contact')" mat-stroked-button class="sidenav-btn">
 				Contact
 			</button>
 			<span class="spacer"></span>
-			<img src="assets/Logo.svg" width="48" style="padding-bottom: 16px;"/>
+			<img src="assets/Logo.svg" width="48px" style="padding-bottom: 16px;"/>
 		</div>
   </mat-drawer>
 
@@ -27,6 +27,8 @@
 			<button mat-icon-button (click)="drawer.toggle()" matTooltip="Open menu">
 				<mat-icon>menu</mat-icon>
 			</button>
+			<span class="spacer"></span>
+			<span>{{title}}</span>
 			<span class="spacer"></span>
 			<div *ngIf="isDarkMode; else elseBlock">
 				<button (click)="toggleDarkMode()" matTooltip="Switch to light mode" mat-icon-button>

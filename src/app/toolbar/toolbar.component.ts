@@ -1,4 +1,4 @@
-import { Component, ViewChild } from '@angular/core'
+import { Component, Input, ViewChild } from '@angular/core'
 import { CommonModule } from '@angular/common'
 import { MatIconModule } from '@angular/material/icon'
 import { MatDividerModule } from '@angular/material/divider'
@@ -28,6 +28,8 @@ export class ToolbarComponent {
   isDarkMode = false
 	@ViewChild('drawer')
 	drawerRef!: MatDrawer
+
+	@Input() title: string = ""
 
   constructor(private _router: Router) {
     const val = localStorage.getItem('isDarkMode')
