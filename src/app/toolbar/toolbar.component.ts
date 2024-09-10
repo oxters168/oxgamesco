@@ -43,20 +43,15 @@ export class ToolbarComponent {
 		this.drawerRef.close()
 		switch (page) {
 			case 'little-trinkets':
-				this._router.navigateByUrl('/little-trinkets')
-				break
 			case 'ox-shell':
-				this._router.navigateByUrl('/ox-shell')
-				break
 			case 'ox-board':
-				this._router.navigateByUrl('/ox-board')
-				break
 			case 'rocho':
-				this._router.navigateByUrl('/rocho')
-				break
+			case 'jigether':
 			case 'contact':
-				this._router.navigateByUrl('/contact')
+				this._router.navigateByUrl(`/${page}`)
 				break
+			default:
+				console.warn(`Could not find page: ${page}`)
 		}
 	}
   toggleDarkMode() {
@@ -73,4 +68,4 @@ export class ToolbarComponent {
   }
 }
 
-export type Page = 'ox-shell' | 'ox-board' | 'little-trinkets' | 'rocho' | 'contact'
+export type Page = 'ox-shell' | 'ox-board' | 'little-trinkets' | 'rocho' | 'jigether' | 'contact'
