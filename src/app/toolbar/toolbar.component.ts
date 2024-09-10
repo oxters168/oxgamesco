@@ -48,6 +48,15 @@ export class ToolbarComponent {
 			case 'ox-shell':
 				this._router.navigateByUrl('/ox-shell')
 				break
+			case 'ox-board':
+				this._router.navigateByUrl('/ox-board')
+				break
+			case 'rocho':
+				this._router.navigateByUrl('/rocho')
+				break
+			case 'contact':
+				this._router.navigateByUrl('/contact')
+				break
 		}
 	}
   toggleDarkMode() {

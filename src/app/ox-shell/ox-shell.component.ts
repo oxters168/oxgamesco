@@ -1,4 +1,4 @@
-import { Component, ElementRef, OnInit, AfterViewInit, HostListener } from '@angular/core'
+import { Component, OnInit, AfterViewInit, HostListener } from '@angular/core'
 import { MatButtonModule } from '@angular/material/button'
 import { CommonModule } from '@angular/common'
 import { ToolbarComponent } from '../toolbar/toolbar.component'
@@ -17,8 +17,6 @@ import { ToolbarComponent } from '../toolbar/toolbar.component'
 export class OxShellComponent implements OnInit, AfterViewInit {
 	flexDirection: 'row' | 'column' = 'row'
 
-	constructor(private el: ElementRef) {}
-
 	ngOnInit() {
     this.updateFlexDirection()
   }
@@ -35,9 +33,6 @@ export class OxShellComponent implements OnInit, AfterViewInit {
   private updateFlexDirection() {
 		const width = window.innerWidth
 		const height = window.innerHeight
-    // const element = this.el.nativeElement
-    // const width = element.clientWidth
-    // const height = element.clientHeight
     const ratio = width / height
 		console.log(`${width} / ${height} = ${ratio}`)
 
