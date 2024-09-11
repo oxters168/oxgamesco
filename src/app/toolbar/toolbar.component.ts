@@ -5,7 +5,8 @@ import { MatDividerModule } from '@angular/material/divider'
 import { MatButtonModule } from '@angular/material/button'
 import { MatToolbarModule } from '@angular/material/toolbar'
 import { MatTooltipModule } from '@angular/material/tooltip'
-import { MatDrawer, MatSidenavModule } from '@angular/material/sidenav'
+import { MatSidenav, MatSidenavModule } from '@angular/material/sidenav'
+import { MatListModule } from '@angular/material/list'
 import { Router } from '@angular/router'
 
 @Component({
@@ -18,7 +19,8 @@ import { Router } from '@angular/router'
     MatDividerModule,
     MatButtonModule,
     MatTooltipModule,
-		MatSidenavModule
+		MatSidenavModule,
+		MatListModule
   ],
   templateUrl: './toolbar.component.html',
   styleUrl: './toolbar.component.scss'
@@ -27,7 +29,15 @@ import { Router } from '@angular/router'
 export class ToolbarComponent {
   isDarkMode = false
 	@ViewChild('drawer')
-	drawerRef!: MatDrawer
+	sidenavRef!: MatSidenav
+	navItems: NavItem[] = [
+		{ page: 'ox-shell', title: 'Ox Shell' },
+		{ page: 'rocho', title: 'Rocho' },
+		{ page: 'little-trinkets', title: 'Little Trinkets' },
+		{ page: 'jigether', title: 'Jigether' },
+		{ page: 'ox-board', title: 'Ox Board' },
+		{ page: 'contact', title: 'Contact' },
+	]
 
 	@Input() title: string = ""
 
@@ -40,7 +50,7 @@ export class ToolbarComponent {
   
 	goto(page: Page) {
 		console.log(page)
-		this.drawerRef.close()
+		this.sidenavRef.close()
 		switch (page) {
 			case 'little-trinkets':
 			case 'ox-shell':
@@ -69,3 +79,4 @@ export class ToolbarComponent {
 }
 
 export type Page = 'ox-shell' | 'ox-board' | 'little-trinkets' | 'rocho' | 'jigether' | 'contact'
+export type NavItem = { page: Page, title: string }
