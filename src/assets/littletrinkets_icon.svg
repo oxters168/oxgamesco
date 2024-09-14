@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024mm"
+   height="1024mm"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="littletrinkets_icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#525252"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.12677305"
+     inkscape:cx="1699.8881"
+     inkscape:cy="1960.1958"
+     inkscape:window-width="1257"
+     inkscape:window-height="1011"
+     inkscape:window-x="20"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g42"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient90"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop89" />
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1;"
+         offset="1"
+         id="stop90" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient88"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop87" />
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:1;"
+         offset="1"
+         id="stop88" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient86"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop85" />
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1;"
+         offset="1"
+         id="stop86" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient84"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop83" />
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:1;"
+         offset="1"
+         id="stop84" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient82"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop81" />
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1;"
+         offset="1"
+         id="stop82" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient80"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop79" />
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1;"
+         offset="1"
+         id="stop80" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient78"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop77" />
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1;"
+         offset="1"
+         id="stop78" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient76"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop75" />
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:1;"
+         offset="1"
+         id="stop76" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient74"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop73" />
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1;"
+         offset="1"
+         id="stop74" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient72"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop71" />
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:1;"
+         offset="1"
+         id="stop72" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient70"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop69" />
+      <stop
+         style="stop-color:#b2b2b2;stop-opacity:1;"
+         offset="1"
+         id="stop70" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient13"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#9e9e9e;stop-opacity:1;"
+         offset="0"
+         id="stop13" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop14" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient13"
+       id="radialGradient14"
+       cx="434.91376"
+       cy="614.90344"
+       fx="434.91376"
+       fy="614.90344"
+       r="28.476431"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.00140856,-2.143563,2.1909767,-0.00143972,-910.59253,1548.3868)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient70"
+       id="radialGradient18"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.00140856,-2.143563,2.1909767,-0.00143972,-910.59253,1548.3868)"
+       cx="434.91376"
+       cy="614.90344"
+       fx="434.91376"
+       fy="614.90344"
+       r="28.476431" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient76"
+       id="radialGradient20"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.00140856,-2.143563,2.1909767,-0.00143972,-910.59253,1548.3868)"
+       cx="434.91376"
+       cy="614.90344"
+       fx="434.91376"
+       fy="614.90344"
+       r="28.476431" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient80"
+       id="radialGradient22"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.00140856,-2.143563,2.1909767,-0.00143972,-910.59253,1548.3868)"
+       cx="434.91376"
+       cy="614.90344"
+       fx="434.91376"
+       fy="614.90344"
+       r="28.476431" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient78"
+       id="radialGradient24"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.00140856,-2.143563,2.1909767,-0.00143972,-910.59253,1548.3868)"
+       cx="434.91376"
+       cy="614.90344"
+       fx="434.91376"
+       fy="614.90344"
+       r="28.476431" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient74"
+       id="radialGradient26"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.00140856,-2.143563,2.1909767,-0.00143972,-910.59253,1548.3868)"
+       cx="434.91376"
+       cy="614.90344"
+       fx="434.91376"
+       fy="614.90344"
+       r="28.476431" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient72"
+       id="radialGradient28"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.00140856,-2.143563,2.1909767,-0.00143972,-910.59253,1548.3868)"
+       cx="434.91376"
+       cy="614.90344"
+       fx="434.91376"
+       fy="614.90344"
+       r="28.476431" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient84"
+       id="radialGradient30"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.00140856,-2.143563,2.1909767,-0.00143972,-910.59253,1548.3868)"
+       cx="434.91376"
+       cy="614.90344"
+       fx="434.91376"
+       fy="614.90344"
+       r="28.476431" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient82"
+       id="radialGradient32"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.00140856,-2.143563,2.1909767,-0.00143972,-910.59253,1548.3868)"
+       cx="434.91376"
+       cy="614.90344"
+       fx="434.91376"
+       fy="614.90344"
+       r="28.476431" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient90"
+       id="radialGradient34"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.00140856,-2.143563,2.1909767,-0.00143972,-910.59253,1548.3868)"
+       cx="434.91376"
+       cy="614.90344"
+       fx="434.91376"
+       fy="614.90344"
+       r="28.476431" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient88"
+       id="radialGradient36"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.00140856,-2.143563,2.1909767,-0.00143972,-910.59253,1548.3868)"
+       cx="434.91376"
+       cy="614.90344"
+       fx="434.91376"
+       fy="614.90344"
+       r="28.476431" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient86"
+       id="radialGradient38"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.00140856,-2.143563,2.1909767,-0.00143972,-910.59253,1548.3868)"
+       cx="434.91376"
+       cy="614.90344"
+       fx="434.91376"
+       fy="614.90344"
+       r="28.476431" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="TemplateHole"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke-width:0.437714;stroke-linejoin:round;paint-order:stroke markers fill"
+         id="path12"
+         cx="403.02246"
+         cy="581.79895"
+         r="39.6875"
+         inkscape:label="DeepDark" />
+      <circle
+         style="fill:url(#radialGradient14);stroke-width:0.613036;stroke-linejoin:round;paint-order:stroke markers fill"
+         id="path13"
+         cx="404.93707"
+         cy="584.2049"
+         r="31.092907"
+         inkscape:label="Shade" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer9"
+       inkscape:label="Die"
+       transform="matrix(1.2723833,0,0,1.2723833,-123.94366,-153.45504)"
+       style="display:none"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:#000000;fill-opacity:1;stroke-width:0.508;stroke-linejoin:round;paint-order:stroke markers fill"
+         d="m 450.52817,424.33414 c 0,0 3.87212,-77.44842 87.69334,-139.75577 64.5359,-47.97188 128.20354,-61.50722 128.20354,-61.50722 0,0 203.19512,-34.0982 210.4224,-168.134925 7.22728,-134.036724 21.08261,-156.680545 21.08261,-156.680545 0,0 9.88499,-16.85955 16.21549,0.25273 6.33048,17.112288 -4.83041,89.584733 -5.022,124.551189 -0.19158,34.966457 -4.39833,135.006881 -126.18169,182.434571 -121.7834,47.42769 -158.60456,60.84277 -158.60456,60.84277 0,0 -126.80945,52.03798 -146.96673,153.18716 -20.15728,101.14917 -26.8424,4.81004 -26.8424,4.81004 z"
+         id="path38"
+         sodipodi:nodetypes="cscscssscsc"
+         inkscape:label="String" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer2"
+         inkscape:label="Corners"
+         style="display:inline">
+        <rect
+           style="fill:#b2b2b2;fill-opacity:1;stroke-width:0.350814;stroke-linejoin:round;paint-order:stroke markers fill"
+           id="rect12"
+           width="48.441349"
+           height="31.533939"
+           x="732.17517"
+           y="-23.505171"
+           transform="matrix(0.84275467,0.53829782,-0.46876672,0.88332199,0,0)"
+           inkscape:label="TopMidCorner" />
+        <rect
+           style="fill:#b2b2b2;fill-opacity:1;stroke-width:0.274218;stroke-linejoin:round;paint-order:stroke markers fill"
+           id="rect11"
+           width="22.490534"
+           height="23.876307"
+           x="1081.8489"
+           y="186.1252"
+           transform="matrix(0.72306813,0.69077671,-0.6673595,0.74473571,0,0)"
+           inkscape:label="BotRightCorner" />
+        <rect
+           style="fill:#b2b2b2;fill-opacity:1;stroke-width:0.508;stroke-linejoin:round;paint-order:stroke markers fill"
+           id="rect10"
+           width="114.9352"
+           height="131.01212"
+           x="505.91302"
+           y="738.75098"
+           inkscape:label="MidRightCorner" />
+        <rect
+           style="fill:#b2b2b2;fill-opacity:1;stroke-width:0.384514;stroke-linejoin:round;paint-order:stroke markers fill"
+           id="rect9"
+           width="103.40734"
+           height="62.703728"
+           x="104.31609"
+           y="748.19635"
+           transform="matrix(0.99999988,-5.1146867e-4,0.06514849,0.99787559,0,0)"
+           inkscape:label="BotLeftCorner" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="layer3"
+         inkscape:label="Faces">
+        <rect
+           style="fill:#f4f4f4;fill-opacity:1;stroke-width:0.519369;stroke-linejoin:round;paint-order:stroke markers fill"
+           id="rect1"
+           width="434.01285"
+           height="454.33325"
+           x="304.67749"
+           y="351.0311"
+           rx="67.682716"
+           transform="matrix(0.99946267,0.03277756,-0.2032527,0.97912632,0,0)"
+           inkscape:label="MainFace" />
+        <rect
+           style="fill:#e1e1e1;fill-opacity:1;stroke-width:0.290536;stroke-linejoin:round;paint-order:stroke markers fill"
+           id="rect3"
+           width="142.51743"
+           height="432.96954"
+           x="892.78625"
+           y="-274.50925"
+           rx="22.225077"
+           transform="matrix(0.67846287,0.73463468,-0.18722572,0.98231693,0,0)"
+           inkscape:label="RightSide" />
+        <rect
+           style="display:inline;fill:#d5d5d5;fill-opacity:1;stroke-width:0.310354;stroke-linejoin:round;paint-order:stroke markers fill"
+           id="rect2"
+           width="440.40775"
+           height="159.87704"
+           x="-592.5683"
+           y="1091.7566"
+           rx="45.839043"
+           transform="matrix(0.99927368,0.03810672,0.6666846,0.74533996,0,0)"
+           inkscape:label="BotSide" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="layer4"
+         inkscape:label="Digits">
+        <g
+           inkscape:groupmode="layer"
+           id="layer6"
+           inkscape:label="MainFace"
+           transform="translate(12.644666,-0.37501911)">
+          <g
+             inkscape:groupmode="layer"
+             id="g18"
+             inkscape:label="Hole"
+             transform="matrix(1,0,-0.17503056,1,5.8718562,-119.58366)">
+            <circle
+               style="fill:#000000;fill-opacity:1;stroke-width:0.437714;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle17"
+               cx="403.02246"
+               cy="581.79895"
+               r="39.6875"
+               inkscape:label="DeepDark" />
+            <circle
+               style="fill:url(#radialGradient18);stroke-width:0.613036;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle18"
+               cx="404.93707"
+               cy="584.2049"
+               r="31.092907"
+               inkscape:label="Shade" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g20"
+             inkscape:label="Hole"
+             transform="matrix(1,0,-0.17503056,1,-16.72597,-1.3889658)">
+            <circle
+               style="fill:#000000;fill-opacity:1;stroke-width:0.437714;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle19"
+               cx="403.02246"
+               cy="581.79895"
+               r="39.6875"
+               inkscape:label="DeepDark" />
+            <circle
+               style="fill:url(#radialGradient20);stroke-width:0.613036;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle20"
+               cx="404.93707"
+               cy="584.2049"
+               r="31.092907"
+               inkscape:label="Shade" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g22"
+             inkscape:label="Hole"
+             transform="matrix(1,0,-0.17503056,1,-41.344341,123.10084)">
+            <circle
+               style="fill:#000000;fill-opacity:1;stroke-width:0.437714;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle21"
+               cx="403.02246"
+               cy="581.79895"
+               r="39.6875"
+               inkscape:label="DeepDark" />
+            <circle
+               style="fill:url(#radialGradient22);stroke-width:0.613036;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle22"
+               cx="404.93707"
+               cy="584.2049"
+               r="31.092907"
+               inkscape:label="Shade" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g24"
+             inkscape:label="Hole"
+             transform="matrix(1,0,-0.17503056,1,163.9875,128.07006)">
+            <circle
+               style="fill:#000000;fill-opacity:1;stroke-width:0.437714;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle23"
+               cx="403.02246"
+               cy="581.79895"
+               r="39.6875"
+               inkscape:label="DeepDark" />
+            <circle
+               style="fill:url(#radialGradient24);stroke-width:0.613036;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle24"
+               cx="404.93707"
+               cy="584.2049"
+               r="31.092907"
+               inkscape:label="Shade" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g26"
+             inkscape:label="Hole"
+             transform="matrix(1,0,-0.17503056,1,192.42252,7.9148652)">
+            <circle
+               style="fill:#000000;fill-opacity:1;stroke-width:0.437714;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle25"
+               cx="403.02246"
+               cy="581.79895"
+               r="39.6875"
+               inkscape:label="DeepDark" />
+            <circle
+               style="fill:url(#radialGradient26);stroke-width:0.613036;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle26"
+               cx="404.93707"
+               cy="584.2049"
+               r="31.092907"
+               inkscape:label="Shade" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g28"
+             inkscape:label="Hole"
+             transform="matrix(1,0,-0.17503056,1,218.39703,-106.91711)">
+            <circle
+               style="fill:#000000;fill-opacity:1;stroke-width:0.437714;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle27"
+               cx="403.02246"
+               cy="581.79895"
+               r="39.6875"
+               inkscape:label="DeepDark" />
+            <circle
+               style="fill:url(#radialGradient28);stroke-width:0.613036;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle28"
+               cx="404.93707"
+               cy="584.2049"
+               r="31.092907"
+               inkscape:label="Shade" />
+          </g>
+        </g>
+        <g
+           inkscape:groupmode="layer"
+           id="layer7"
+           inkscape:label="BotFace"
+           sodipodi:insensitive="true">
+          <g
+             inkscape:groupmode="layer"
+             id="g30"
+             inkscape:label="Hole"
+             style="display:inline"
+             transform="matrix(1,0,0.37304196,0.47181491,-352.29773,566.46928)">
+            <circle
+               style="fill:#000000;fill-opacity:1;stroke-width:0.437714;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle29"
+               cx="403.02246"
+               cy="581.79895"
+               r="39.6875"
+               inkscape:label="DeepDark" />
+            <circle
+               style="fill:url(#radialGradient30);stroke-width:0.613036;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle30"
+               cx="404.93707"
+               cy="584.2049"
+               r="31.092907"
+               inkscape:label="Shade" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g32"
+             inkscape:label="Hole"
+             style="display:inline"
+             transform="matrix(1,0,0.37304196,0.47181491,-81.678529,615.71466)">
+            <circle
+               style="fill:#000000;fill-opacity:1;stroke-width:0.437714;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle31"
+               cx="403.02246"
+               cy="581.79895"
+               r="39.6875"
+               inkscape:label="DeepDark" />
+            <circle
+               style="fill:url(#radialGradient32);stroke-width:0.613036;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle32"
+               cx="404.93707"
+               cy="584.2049"
+               r="31.092907"
+               inkscape:label="Shade" />
+          </g>
+        </g>
+        <g
+           inkscape:groupmode="layer"
+           id="layer8"
+           inkscape:label="RightFace"
+           sodipodi:insensitive="true">
+          <g
+             inkscape:groupmode="layer"
+             id="g34"
+             inkscape:label="Hole"
+             style="display:inline"
+             transform="matrix(0.46453651,-0.14728712,0,1,480.35531,-7.1039475)">
+            <circle
+               style="fill:#000000;fill-opacity:1;stroke-width:0.437714;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle33"
+               cx="403.02246"
+               cy="581.79895"
+               r="39.6875"
+               inkscape:label="DeepDark" />
+            <circle
+               style="fill:url(#radialGradient34);stroke-width:0.613036;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle34"
+               cx="404.93707"
+               cy="584.2049"
+               r="31.092907"
+               inkscape:label="Shade" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g36"
+             inkscape:label="Hole"
+             style="display:inline"
+             transform="matrix(0.46453651,-0.14728712,0,1,478.38647,138.52168)">
+            <circle
+               style="fill:#000000;fill-opacity:1;stroke-width:0.437714;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle35"
+               cx="403.02246"
+               cy="581.79895"
+               r="39.6875"
+               inkscape:label="DeepDark" />
+            <circle
+               style="fill:url(#radialGradient36);stroke-width:0.613036;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle36"
+               cx="404.93707"
+               cy="584.2049"
+               r="31.092907"
+               inkscape:label="Shade" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g38"
+             inkscape:label="Hole"
+             style="display:inline"
+             transform="matrix(0.46453651,-0.14728712,0,1,475.59829,288.22361)">
+            <circle
+               style="fill:#000000;fill-opacity:1;stroke-width:0.437714;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle37"
+               cx="403.02246"
+               cy="581.79895"
+               r="39.6875"
+               inkscape:label="DeepDark" />
+            <circle
+               style="fill:url(#radialGradient38);stroke-width:0.613036;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle38"
+               cx="404.93707"
+               cy="584.2049"
+               r="31.092907"
+               inkscape:label="Shade" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g69"
+       inkscape:label="WhiteDie"
+       transform="matrix(1.2723833,0,0,1.2723833,-123.94366,-153.45504)">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.508;stroke-linejoin:round;paint-order:stroke markers fill"
+         d="m 450.52817,424.33414 c 0,0 3.87212,-77.44842 87.69334,-139.75577 64.5359,-47.97188 128.20354,-61.50722 128.20354,-61.50722 0,0 203.19512,-34.0982 210.4224,-168.134925 7.22728,-134.036724 21.08261,-156.680545 21.08261,-156.680545 0,0 9.88499,-16.85955 16.21549,0.25273 6.33048,17.112288 -4.83041,89.584733 -5.022,124.551189 -0.19158,34.966457 -4.39833,135.006881 -126.18169,182.434571 -121.7834,47.42769 -158.60456,60.84277 -158.60456,60.84277 0,0 -126.80945,52.03798 -146.96673,153.18716 -20.15728,101.14917 -26.8424,4.81004 -26.8424,4.81004 z"
+         id="path39"
+         sodipodi:nodetypes="cscscssscsc"
+         inkscape:label="String" />
+      <g
+         inkscape:groupmode="layer"
+         id="g42"
+         inkscape:label="Corners"
+         style="display:inline">
+        <rect
+           style="fill:#c3c3c3;fill-opacity:1;stroke-width:0.350814;stroke-linejoin:round;paint-order:stroke markers fill"
+           id="rect39"
+           width="48.441349"
+           height="31.533939"
+           x="732.17517"
+           y="-23.505171"
+           transform="matrix(0.84275467,0.53829782,-0.46876672,0.88332199,0,0)"
+           inkscape:label="TopMidCorner" />
+        <rect
+           style="fill:#c1c1c1;fill-opacity:1;stroke-width:0.274218;stroke-linejoin:round;paint-order:stroke markers fill"
+           id="rect40"
+           width="22.490534"
+           height="23.876307"
+           x="1081.8489"
+           y="186.1252"
+           transform="matrix(0.72306813,0.69077671,-0.6673595,0.74473571,0,0)"
+           inkscape:label="BotRightCorner" />
+        <rect
+           style="fill:#c1c1c1;fill-opacity:1;stroke-width:0.508;stroke-linejoin:round;paint-order:stroke markers fill"
+           id="rect41"
+           width="114.9352"
+           height="131.01212"
+           x="505.91302"
+           y="738.75098"
+           inkscape:label="MidRightCorner" />
+        <rect
+           style="fill:#c2c2c2;fill-opacity:1;stroke-width:0.384514;stroke-linejoin:round;paint-order:stroke markers fill"
+           id="rect42"
+           width="103.40734"
+           height="62.703728"
+           x="104.31609"
+           y="748.19635"
+           transform="matrix(0.99999988,-5.1146867e-4,0.06514849,0.99787559,0,0)"
+           inkscape:label="BotLeftCorner" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g45"
+         inkscape:label="Faces">
+        <rect
+           style="fill:#f4f4f4;fill-opacity:1;stroke-width:0.519369;stroke-linejoin:round;paint-order:stroke markers fill"
+           id="rect43"
+           width="434.01285"
+           height="454.33325"
+           x="304.67749"
+           y="351.0311"
+           rx="67.682716"
+           transform="matrix(0.99946267,0.03277756,-0.2032527,0.97912632,0,0)"
+           inkscape:label="MainFace" />
+        <rect
+           style="fill:#eaeaea;fill-opacity:1;stroke-width:0.290536;stroke-linejoin:round;paint-order:stroke markers fill"
+           id="rect44"
+           width="142.51743"
+           height="432.96954"
+           x="892.78625"
+           y="-274.50925"
+           rx="22.225077"
+           transform="matrix(0.67846287,0.73463468,-0.18722572,0.98231693,0,0)"
+           inkscape:label="RightSide" />
+        <rect
+           style="display:inline;fill:#d7d7d7;fill-opacity:1;stroke-width:0.310354;stroke-linejoin:round;paint-order:stroke markers fill"
+           id="rect45"
+           width="440.40775"
+           height="159.87704"
+           x="-592.5683"
+           y="1091.7566"
+           rx="45.839043"
+           transform="matrix(0.99927368,0.03810672,0.6666846,0.74533996,0,0)"
+           inkscape:label="BotSide" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g68"
+         inkscape:label="Digits">
+        <g
+           inkscape:groupmode="layer"
+           id="g57"
+           inkscape:label="MainFace"
+           transform="translate(12.644666,-0.37501911)">
+          <g
+             inkscape:groupmode="layer"
+             id="g46"
+             inkscape:label="Hole"
+             transform="matrix(1,0,-0.17503056,1,5.8718562,-119.58366)">
+            <circle
+               style="fill:#e1e1e1;fill-opacity:1;stroke-width:0.437714;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle45"
+               cx="403.02246"
+               cy="581.79895"
+               r="39.6875"
+               inkscape:label="DeepDark" />
+            <circle
+               style="fill:url(#radialGradient18);stroke-width:0.613036;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle46"
+               cx="404.93707"
+               cy="584.2049"
+               r="31.092907"
+               inkscape:label="Shade" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g48"
+             inkscape:label="Hole"
+             transform="matrix(1,0,-0.17503056,1,-16.72597,-1.3889658)">
+            <circle
+               style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.437714;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle47"
+               cx="403.02246"
+               cy="581.79895"
+               r="39.6875"
+               inkscape:label="DeepDark" />
+            <circle
+               style="fill:url(#radialGradient20);stroke-width:0.613036;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle48"
+               cx="404.93707"
+               cy="584.2049"
+               r="31.092907"
+               inkscape:label="Shade" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g50"
+             inkscape:label="Hole"
+             transform="matrix(1,0,-0.17503056,1,-41.344341,123.10084)">
+            <circle
+               style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.437714;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle49"
+               cx="403.02246"
+               cy="581.79895"
+               r="39.6875"
+               inkscape:label="DeepDark" />
+            <circle
+               style="fill:url(#radialGradient22);stroke-width:0.613036;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle50"
+               cx="404.93707"
+               cy="584.2049"
+               r="31.092907"
+               inkscape:label="Shade" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g52"
+             inkscape:label="Hole"
+             transform="matrix(1,0,-0.17503056,1,163.9875,128.07006)">
+            <circle
+               style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.437714;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle51"
+               cx="403.02246"
+               cy="581.79895"
+               r="39.6875"
+               inkscape:label="DeepDark" />
+            <circle
+               style="fill:url(#radialGradient24);stroke-width:0.613036;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle52"
+               cx="404.93707"
+               cy="584.2049"
+               r="31.092907"
+               inkscape:label="Shade" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g54"
+             inkscape:label="Hole"
+             transform="matrix(1,0,-0.17503056,1,192.42252,7.9148652)">
+            <circle
+               style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.437714;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle53"
+               cx="403.02246"
+               cy="581.79895"
+               r="39.6875"
+               inkscape:label="DeepDark" />
+            <circle
+               style="fill:url(#radialGradient26);stroke-width:0.613036;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle54"
+               cx="404.93707"
+               cy="584.2049"
+               r="31.092907"
+               inkscape:label="Shade" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g56"
+             inkscape:label="Hole"
+             transform="matrix(1,0,-0.17503056,1,218.39703,-106.91711)">
+            <circle
+               style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.437714;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle55"
+               cx="403.02246"
+               cy="581.79895"
+               r="39.6875"
+               inkscape:label="DeepDark" />
+            <circle
+               style="fill:url(#radialGradient28);stroke-width:0.613036;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle56"
+               cx="404.93707"
+               cy="584.2049"
+               r="31.092907"
+               inkscape:label="Shade" />
+          </g>
+        </g>
+        <g
+           inkscape:groupmode="layer"
+           id="g61"
+           inkscape:label="BotFace">
+          <g
+             inkscape:groupmode="layer"
+             id="g58"
+             inkscape:label="Hole"
+             style="display:inline"
+             transform="matrix(1,0,0.37304196,0.47181491,-352.29773,566.46928)">
+            <circle
+               style="fill:#e1e1e1;fill-opacity:1;stroke-width:0.437714;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle57"
+               cx="403.02246"
+               cy="581.79895"
+               r="39.6875"
+               inkscape:label="DeepDark" />
+            <circle
+               style="fill:url(#radialGradient30);stroke-width:0.613036;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle58"
+               cx="404.93707"
+               cy="584.2049"
+               r="31.092907"
+               inkscape:label="Shade" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g60"
+             inkscape:label="Hole"
+             style="display:inline"
+             transform="matrix(1,0,0.37304196,0.47181491,-81.678529,615.71466)">
+            <circle
+               style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.437714;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle59"
+               cx="403.02246"
+               cy="581.79895"
+               r="39.6875"
+               inkscape:label="DeepDark" />
+            <circle
+               style="fill:url(#radialGradient32);stroke-width:0.613036;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle60"
+               cx="404.93707"
+               cy="584.2049"
+               r="31.092907"
+               inkscape:label="Shade" />
+          </g>
+        </g>
+        <g
+           inkscape:groupmode="layer"
+           id="g67"
+           inkscape:label="RightFace">
+          <g
+             inkscape:groupmode="layer"
+             id="g62"
+             inkscape:label="Hole"
+             style="display:inline"
+             transform="matrix(0.46453651,-0.14728712,0,1,480.35531,-7.1039475)">
+            <circle
+               style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.437714;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle61"
+               cx="403.02246"
+               cy="581.79895"
+               r="39.6875"
+               inkscape:label="DeepDark" />
+            <circle
+               style="fill:url(#radialGradient34);stroke-width:0.613036;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle62"
+               cx="404.93707"
+               cy="584.2049"
+               r="31.092907"
+               inkscape:label="Shade" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g64"
+             inkscape:label="Hole"
+             style="display:inline"
+             transform="matrix(0.46453651,-0.14728712,0,1,478.38647,138.52168)">
+            <circle
+               style="fill:#dfdfdf;fill-opacity:1;stroke-width:0.437714;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle63"
+               cx="403.02246"
+               cy="581.79895"
+               r="39.6875"
+               inkscape:label="DeepDark" />
+            <circle
+               style="fill:url(#radialGradient36);stroke-width:0.613036;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle64"
+               cx="404.93707"
+               cy="584.2049"
+               r="31.092907"
+               inkscape:label="Shade" />
+          </g>
+          <g
+             inkscape:groupmode="layer"
+             id="g66"
+             inkscape:label="Hole"
+             style="display:inline"
+             transform="matrix(0.46453651,-0.14728712,0,1,475.59829,288.22361)">
+            <circle
+               style="fill:#dfdfdf;fill-opacity:1;stroke-width:0.437714;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle65"
+               cx="403.02246"
+               cy="581.79895"
+               r="39.6875"
+               inkscape:label="DeepDark" />
+            <circle
+               style="fill:url(#radialGradient38);stroke-width:0.613036;stroke-linejoin:round;paint-order:stroke markers fill"
+               id="circle66"
+               cx="404.93707"
+               cy="584.2049"
+               r="31.092907"
+               inkscape:label="Shade" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

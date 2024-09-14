@@ -8,6 +8,7 @@ import { MatTooltipModule } from '@angular/material/tooltip'
 import { MatSidenav, MatSidenavModule } from '@angular/material/sidenav'
 import { MatListModule } from '@angular/material/list'
 import { Router } from '@angular/router'
+import { ColoredSvgModule } from '../colored-svg/colored-svg.module'
 
 @Component({
   selector: 'app-toolbar',
@@ -20,7 +21,8 @@ import { Router } from '@angular/router'
     MatButtonModule,
     MatTooltipModule,
 		MatSidenavModule,
-		MatListModule
+		MatListModule,
+		ColoredSvgModule
   ],
   templateUrl: './toolbar.component.html',
   styleUrl: './toolbar.component.scss'
@@ -31,12 +33,12 @@ export class ToolbarComponent {
 	@ViewChild('drawer')
 	sidenavRef!: MatSidenav
 	navItems: NavItem[] = [
-		{ page: 'ox-shell', title: 'Ox Shell' },
-		{ page: 'rocho', title: 'Rocho' },
-		{ page: 'little-trinkets', title: 'Little Trinkets' },
-		{ page: 'jigether', title: 'Jigether' },
-		{ page: 'ox-board', title: 'Ox Board' },
-		{ page: 'contact', title: 'Contact' },
+		{ page: 'ox-shell', title: 'Ox Shell', iconSrc: 'assets/oxshell_icon.svg' },
+		{ page: 'rocho', title: 'Rocho', iconSrc: 'assets/rocho_icon.svg' },
+		{ page: 'little-trinkets', title: 'Little Trinkets', iconSrc: 'assets/littletrinkets_icon.svg' },
+		{ page: 'jigether', title: 'Jigether', iconSrc: 'assets/jigether_icon.svg' },
+		{ page: 'ox-board', title: 'Ox Board', iconSrc: 'assets/oxboard_icon.svg' },
+		// { page: 'contact', title: 'Contact' },
 	]
 
 	@Input() title: string = ""
@@ -79,4 +81,4 @@ export class ToolbarComponent {
 }
 
 export type Page = 'ox-shell' | 'ox-board' | 'little-trinkets' | 'rocho' | 'jigether' | 'contact'
-export type NavItem = { page: Page, title: string }
+export type NavItem = { page: Page, title: string, iconSrc?: string }

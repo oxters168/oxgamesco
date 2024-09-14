@@ -2,7 +2,6 @@ import { Component } from '@angular/core'
 import { CommonModule } from '@angular/common'
 import { RouterOutlet } from '@angular/router'
 import { OxShellComponent } from './ox-shell/ox-shell.component'
-// import { PrivacyPolicyOxshellComponent } from './privacy-policy-oxshell/privacy-policy-oxshell.component'
 
 @Component({
   selector: 'app-root',
@@ -11,7 +10,6 @@ import { OxShellComponent } from './ox-shell/ox-shell.component'
     CommonModule,
     RouterOutlet,
     OxShellComponent,
-    // PrivacyPolicyOxshellComponent
   ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
