@@ -38,7 +38,6 @@ export class ToolbarComponent {
 		{ page: 'little-trinkets', title: 'Little Trinkets', iconSrc: 'assets/littletrinkets_icon.svg' },
 		{ page: 'jigether', title: 'Jigether', iconSrc: 'assets/jigether_icon.svg' },
 		{ page: 'ox-board', title: 'Ox Board', iconSrc: 'assets/oxboard_icon.svg' },
-		// { page: 'contact', title: 'Contact' },
 	]
 
 	@Input() title: string = ""
